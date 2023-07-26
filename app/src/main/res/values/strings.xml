@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Pokemons</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemon_1">Pokemon 1</string>
+    <string name="pokemon_2">Pokemon 2</string>
+    <string name="pokemon_3">Pokemon 3</string>
+    <string name="pokemon_4">Pokemon 4</string>
+    <string name="pokemon_5">Pokemon 5</string>
+    <string name="pokemon_6">Pokemon 6</string>
+    <string name="pokemon_7">Pokemon 7</string>
+    <string name="pokemon_8">Pokemon 8</string>
+    <string name="pokemon_9">Pokemon 9</string>
+
+
 </resources>
